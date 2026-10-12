@@ -10,7 +10,7 @@ Maker Media GmbH
 
 ![Aufmacherbild aus dem Heft](./doc/fraestisch_quer.jpg)
 
-In diesem Repository findet ihr eine bemaßte Zeichnung sowie Materiallisten für die einzelnen Bestandteile (Table, Fence und AngleJig) des selbstgebauten Frästisch aus der Make 6/26. Je nachdem, welche Oberfräse eingebaut werden soll, muss man andere Schrauben dafür verwenden und die [3D-Datei](https://gmail681791.autodesk360.com/g/shares/SH90d2dQT28d5b602811b63e155741e3e614) anpassen.
+In diesem Repository findet ihr eine [bemaßte Zeichnung](RouterTable_Zusammenstellung_V2.pdf) sowie Materiallisten für die einzelnen Bestandteile (Table, Fence und AngleJig) des selbstgebauten Frästisch aus der Make 6/26. Je nachdem, welche Oberfräse eingebaut werden soll, muss man andere Schrauben dafür verwenden und die [3D-Datei](https://gmail681791.autodesk360.com/g/shares/SH90d2dQT28d5b602811b63e155741e3e614) anpassen.
 
 **Material: Table**
 - Siebdruckplatten 12 mm (Details siehe Zusammenstellungszeichnung Pos. 1 bis 4)
